@@ -2,8 +2,8 @@
 
 This is the place where I opensource stuff 😄
 
-- 🌱 I’m currently working on something cool 
-- 🐠 I’m currently learning AI, ML and Blockchain
+- 🌱 I’m currently working on robot force control and reinforcement learning   
+- 🐠 I’m currently learning reinforcement learning for robotics
 - 📫 How to reach me: 
 
 
