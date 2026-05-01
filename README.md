@@ -5,7 +5,7 @@ This is the place where I opensource stuff 😄
 - 🔧 Previously I worked on UR arm visual servo
 - 🌱 I’m currently working on robot force control and reinforcement learning   
 - 🐠 I’m currently learning reinforcement learning for robotics
-- 📫 How to reach me: 
+- 📫 How to reach me: [1661629478@qq.com](mailto:1661629478@qq.com)
 
 
 <!--
