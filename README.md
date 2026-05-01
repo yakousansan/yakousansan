@@ -1,4 +1,12 @@
 ## 👋 Hello there ! I'm Zhen Zhang
+
+This is the place where I opensource stuff 😄
+
+- 🌱 I’m currently working on something cool 
+- 🐠 I’m currently learning AI, ML and Blockchain
+- 📫 How to reach me: 
+
+
 <!--
 **yakousansan/yakousansan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
